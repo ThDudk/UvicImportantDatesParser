@@ -1,0 +1,659 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+SUMMARY:Senate Meets
+UID:376f6dd4-6e74-47d7-9f6e-945a878bb38d@376f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Last day for 100% reduction of tuition fees for standard first term and full year courses
+UID:d894ef81-5ae3-4264-bfa7-779a522cd52b@d894.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260518
+SUMMARY:University Closed (Victoria Day)
+UID:7479741c-c73e-44b3-8ea2-f3d2aeeb77ea@7479.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+SUMMARY:Senate meets
+UID:5bb1005e-b3c2-4912-9fb2-dfd8b7174a68@5bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260804
+SUMMARY:S.E.L. days (Student Experience of Learning survey)
+UID:c5b6efaf-312c-4c00-accb-416eb0a23275@c5b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+SUMMARY:Deadline to apply to graduate for Fall Convocation (all faculties)
+UID:028159aa-706f-468c-b7f4-02d902c50642@0281.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+SUMMARY:First term examinations end for all faculties
+UID:7fea20be-d062-4af6-8fe8-9f60a66b1dd6@7fea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+SUMMARY:University Closed (Thanksgiving Day)
+UID:7aca0135-4890-4dae-b885-ed772b47286e@7aca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250502
+SUMMARY:Senate Meets
+UID:0b504b08-e49c-40b3-9451-3dda62d2de8e@0b50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+SUMMARY:Last day for graduate students to register in a personal leave in summer
+UID:ad8c7b5f-6e74-48ca-9208-53dcfcdea710@ad8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+SUMMARY:First registration date for Summer Session 2026
+UID:b2d90d6d-3267-4421-b8ec-442da5d5ca55@b2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251206
+SUMMARY:S.E.L. days (Student Experience of Learning survey)
+UID:8248f894-a490-44e8-8fe5-14b71fdcb911@8248.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+SUMMARY:University Closed (Canada Day)
+UID:5d1b8129-077c-48a6-96f4-296d3fa29727@5d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+SUMMARY:Last day for withdrawing from full year and second term courses without penalty of failure
+UID:46fd5712-4196-4053-808e-3d7c4340546c@46fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Last day of classes in first term for all faculties
+UID:e4365a0d-a1b1-492e-a165-e217330ff681@e436.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Last day for graduate students to register in a personal leave in second term
+UID:142dcc89-c55a-44b3-b531-bc12ec843ad2@142d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+SUMMARY:University Closed (National Day for Truth and Reconciliation)
+UID:1537fa23-3f98-4b43-bcf4-f8ba09412115@1537.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20250801
+SUMMARY:Supplemental and deferred examinations for Winter Session 2024-2025 (except for Business and Law courses)
+UID:40b0dc39-a00a-4b36-8517-efb081d82669@40b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+SUMMARY:University Closed (National Day for Truth and Reconciliation)
+UID:fabb7395-f0ba-41e5-ab31-48dc811a72ad@fabb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+SUMMARY:Examinations begin for all faculties
+UID:49eb1893-1860-45db-9e23-3cad5d7a0311@49eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+SUMMARY:June (Term 5) Courses Begin
+UID:de52f38b-79f1-470f-b772-d7c250eba770@de52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+SUMMARY:Last day for adding courses that begin in the first term (except Faculty of Law)
+UID:7a21808c-e75c-4590-bb89-110db23689e6@7a21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+SUMMARY:Last day for graduate students to register in a personal leave in first term
+UID:15e9effc-2c60-4111-b185-387e3d5258fb@15e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+SUMMARY:Last day for Faculty of Law course changes
+UID:46d6677e-5e73-4daa-bab8-de279677d62b@46d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Last day for withdrawing from first term courses without penalty of failure
+UID:5c890fca-5e2e-4acb-ab51-084c99f2a5fd@5c89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+SUMMARY:Reading Break May-August (Term 1) sections only (except Law)
+UID:13820699-aef8-4784-9108-38882e769df4@1382.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+SUMMARY:University Closed (Labour Day)
+UID:175ee7d1-b769-470f-9b9e-f8f6859f5834@175e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260407
+SUMMARY:S.E.L. days (Student Experience of Learning survey)
+UID:196697ee-2e66-4a46-8109-7aa154c50ebd@1966.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+SUMMARY:July (Term 6) and July-August (Term 3) courses begin
+UID:a3678f13-1328-4c93-9bca-0dc59ec8c6be@a367.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250614
+SUMMARY:Spring Convocation
+UID:2acbb0f5-8f96-4c50-a297-0217f456334f@2acb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250911
+SUMMARY:Last day for adding or dropping courses in the Faculty of Law
+UID:1d698b09-dac7-4822-99df-6cd04a62e5f5@1d69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+SUMMARY:First registration date for Winter Session 2026/2027
+UID:e992ef0d-cc04-4a13-a66c-465b646bbd2f@e992.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+SUMMARY:Last day for paying first term fees without penalty
+UID:99d18cf4-81ef-4f87-b562-fd781bfe5301@99d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:University closed (Winter Break)
+UID:08b57eff-23e5-4d90-9ec7-0bc79eb02585@08b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+SUMMARY:University Closed (Easter Monday)
+UID:7b44c261-a037-4a55-8e90-970a380d809b@7b44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+SUMMARY:University Closed (Family Day)
+UID:cdee5250-d08e-494e-b466-a05106bbdd16@cdee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Senate Committee on Academic Standards meets to approve Convocation lists
+UID:f7a61caa-8230-4ba6-9334-7511d5efef3d@f7a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Last day for graduate students to register in a personal leave in first term
+UID:acb63e93-2c0f-4053-b932-5cd0b0532a12@acb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261207
+SUMMARY:National Day of Remembrance and Action on Violence Against Women
+UID:494dd9cb-d471-4151-a5f1-28ad3f201e0b@494d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+SUMMARY:July-August (Term 3) and August (Term 7) courses end
+UID:8ff8b9e6-2104-41aa-a867-294b5c9d5145@8ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250512
+SUMMARY:May (Term 4) and May-June (Term 2) courses begin
+UID:6dea9648-99e0-47dd-b6d7-a82c8c2aa35f@6dea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Last day of classes for all faculties
+UID:b2373757-7f36-4455-abd5-d06164142b3d@b237.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+SUMMARY:Senate Committee on Academic Standards meets to approve Convocation lists
+UID:3cb625ed-b8f1-49c3-9dfe-21ba2b0fd73a@3cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+SUMMARY:May-August (Term 1) classes end for all faculties
+UID:f0f633ac-8de4-436e-8eee-7315a78d8764@f0f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:Fall Convocation
+UID:638c7c92-fd53-4bac-ae0e-a025a82364a3@638c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Fees deadlines for summer
+UID:f0bcf62f-bf69-4f94-8d87-7381b4d7a58f@f0bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+SUMMARY:Second term classes begin for all faculties
+UID:dd93afa6-d546-45a0-b244-b3930a8e7457@dd93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+SUMMARY:August (Term 7) courses begin
+UID:e5a396a7-6685-4d22-aec3-e2198774bba3@e5a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+SUMMARY:Last day for adding courses that begin in the second term (except for Faculty of Law)
+UID:8cb28252-482c-4c9a-ad12-2ad5a7a595c5@8cb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+SUMMARY:National Day of Remembrance and Action on Violence Against Women
+UID:b76c5947-4d0a-4927-8e63-6037a72d2f95@b76c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260703
+SUMMARY:Reading Break May-August (Term 1) sections only (except Law)
+UID:f3af1353-a58a-4de1-a8dd-3c68ca9e90af@f3af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+SUMMARY:Last day for paying second term fees without penalty
+UID:dab34be6-596a-4819-8f83-bac2d96b9632@dab3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+SUMMARY:University Closed (British Columbia Day)
+UID:a97054fa-41e6-48cd-bfba-46746aacd06f@a970.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Senate meets
+UID:38341498-2d1a-4e65-aba1-57f76f579ead@3834.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Faculty of Graduate Studies deadline to apply to graduate for Spring Convocation
+UID:88fa2982-e675-436f-8e50-e53ad07b17f7@88fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+SUMMARY:First year registration and opening assembly for Faculty of Law
+UID:a74a9d0d-b924-401e-af0d-2de1afd84440@a74a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+SUMMARY:University Closed (Remembrance Day)
+UID:ff9d7844-9f0f-4b47-b6f9-932d414d5a20@ff9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Undergraduate deadline to apply to graduate for Spring Convocation
+UID:901a42a6-2b72-474f-b9d8-23e245b0d1f1@901a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+SUMMARY:July (Term 6) courses end
+UID:cb83cda5-944a-4510-bc15-ce3f8e9fbb79@cb83.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Senate meets
+UID:61788ed9-5d26-4a25-a47e-de609e49f93a@6178.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+SUMMARY:May-June (Term 2) and June (Term 5) Courses End
+UID:2d13a913-d943-4f33-a0dd-8f785fd269fe@2d13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250715
+SUMMARY:Deadline to apply to graduate for Fall Convocation (all faculties)
+UID:8801c2d8-9d4f-4ad1-a44c-c27556234e43@8801.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+SUMMARY:Examinations end for all faculties
+UID:6d1685c4-1dac-4951-aab8-efa36e827d6c@6d16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+SUMMARY:Senate Committee on Academic Standards meets to approve Convocation lists
+UID:b3a745c3-79d9-48b7-ba82-f453a1ffd317@b3a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+SUMMARY:Senate meets
+UID:4b8c93b5-74e3-455a-815e-447b4be74146@4b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260801
+SUMMARY:Supplemental and deferred examinations for Winter Session 2024-2025 (except for Business and Law courses)
+UID:8d6938c2-d884-4f0f-a96f-729006b90442@8d69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+SUMMARY:Last day of classes in first term for all faculties
+UID:ec41f9e8-71d9-4d92-bda7-ce36947f4a0d@ec41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+SUMMARY:Last day for 100% reduction of tuition fees for standard first term and full year courses
+UID:f7103779-5e51-48f3-a909-829dd1e7c4a1@f710.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Last day for 100% reduction of second term fees for standard courses
+UID:6f17a069-76a8-41e4-8d83-c9817c492d55@6f17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+SUMMARY:University Closed (Canada Day)
+UID:1a329fd4-24cc-4cf8-8028-9c812a202396@1a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+SUMMARY:Last day for adding or dropping courses in the Faculty of Law
+UID:76ed7eed-586d-47b1-9c38-7f507bb6c1fc@76ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261111
+SUMMARY:University Closed (Remembrance Day)
+UID:16c59f70-37ac-46dd-9bc6-71fbe67fe9bc@16c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+SUMMARY:Last day for 50% reduction of tuition fees for standard courses
+UID:cad98f12-80fa-4780-add7-67c2a3adb697@cad9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+SUMMARY:May-August (Term 1) examinations begin for all faculties
+UID:a1e0ab1b-6e95-4ac5-b107-2189f3c5b55a@a1e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+SUMMARY:Senate meets
+UID:00d9ed88-8183-480e-8f76-ede2a495bb17@00d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+SUMMARY:University Closed (British Columbia Day)
+UID:c6238308-6f61-46fe-9e99-af5f22511c35@c623.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+SUMMARY:May (Term 4) Courses End
+UID:33eda782-431b-463c-b8af-4074dde53544@33ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251113
+SUMMARY:Fall Convocation
+UID:cd637528-6bab-464f-bbaa-a5754be50eda@cd63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+SUMMARY:May (Term 4) and May-June (Term 2) courses begin
+UID:bbec9804-f45a-483d-b919-34e1067f379a@bbec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+SUMMARY:University Closed (Labour Day)
+UID:0b54929d-0714-48fc-bf94-b72286af668c@0b54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250804
+SUMMARY:S.E.L. days (Student Experience of Learning survey)
+UID:a4484f60-db15-48c5-8f20-7eaba3875db1@a448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251113
+SUMMARY:Reading Break for all faculties
+UID:a21b615d-d096-40ac-a809-4a4a8696bbd3@a21b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+SUMMARY:Senate Meets
+UID:bd2e780d-1bc1-45d2-b489-edf8996a6f05@bd2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+SUMMARY:University Closed (Thanksgiving Day)
+UID:97241b3e-a68f-463e-8d54-20cf452faed8@9724.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260221
+SUMMARY:Reading Break for all faculties
+UID:8ae96e7f-62d7-4ab8-9bc3-5a15af3de839@8ae9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+SUMMARY:Reading Break for all faculties
+UID:249a735d-2d16-49b4-8a91-a191bdebafa8@249a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+SUMMARY:Last day for adding courses that begin in the first term (except Faculty of Law)
+UID:abf339a9-fb53-434f-a577-312097dc6796@abf3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250820
+SUMMARY:July-August (Term 3) and August (Term 7) courses end
+UID:8e3b5a52-3ebf-4872-b46c-b936e20a8644@8e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:Fees deadlines for summer
+UID:5d926640-2560-4407-ad8d-45acb9942b56@5d92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+SUMMARY:May-August (Term 1) examinations end for all faculties
+UID:ad2fb70f-b215-4841-8222-27bf3f3bb12f@ad2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261210
+SUMMARY:First term examinations begin for all faculties
+UID:10fa581e-6f74-4c53-8fb3-db565ad65796@10fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250609
+SUMMARY:First registration date for Winter Session 2025/2026
+UID:682100b5-f3ad-4dcc-b364-6414ee5d0b66@6821.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+SUMMARY:May (Term 4) Courses End
+UID:34849e25-dc70-4941-a7ff-de51819c56d8@3484.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+SUMMARY:Reading Break May-August (Term 1) sections only (except Law)
+UID:b7721be4-70f0-4143-a4c9-472d61c99907@b772.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+SUMMARY:July (Term 6) and July-August (Term 3) courses begin
+UID:6b21fba6-cbcd-4873-a933-7c76276504c4@6b21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+SUMMARY:May-August (Term 1) examinations begin for all faculties
+UID:227eda73-df7b-4144-bad7-2770301e660e@227e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+SUMMARY:Last day for paying first term fees without penalty
+UID:b15c2dad-3985-49a9-86f5-006f2fd8f992@b15c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+SUMMARY:May-August (Term 1) classes end for all faculties
+UID:feb2e77e-d5c2-4ce9-9f4e-de150edffc3e@feb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+SUMMARY:Last day for 50% reduction of tuition fees for standard courses
+UID:491de7da-92fb-488e-ba4a-283ca82d93ab@491d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251007
+SUMMARY:Last day for 50% reduction of tuition fees for standard courses
+UID:69b5b345-b364-4f90-ba03-1a2650a12cf1@69b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+SUMMARY:Faculty of Graduate Studies deadline to apply to graduate for Spring Convocation
+UID:23d0a1ad-b8da-4abd-8553-2eb252e9c2bd@23d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+SUMMARY:Undergraduate deadline to apply to graduate for Spring Convocation
+UID:055eeac5-c7cf-4c77-a857-3197cc7d89ba@055e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250514
+SUMMARY:Last day for Faculty of Law course changes
+UID:6df4e053-b0ab-484f-80ef-2de6c892c3d2@6df4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+SUMMARY:First term classes begin for all faculties
+UID:484ab499-f75f-47cf-beba-04575c9c900e@484a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+SUMMARY:June (Term 5) Courses Begin
+UID:69131ec1-eab7-420a-848b-3af66ba25e00@6913.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+SUMMARY:Last day for adding or dropping courses in the Faculty of Law
+UID:2ab6a72d-55a8-43fb-9c0c-741614ddbd3d@2ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+SUMMARY:S.E.L. days (Student Experience of Learning survey)
+UID:791705f1-0d92-4a32-84ec-e471e8e55b58@7917.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:Spring Convocation
+UID:8813b1a9-065f-491a-a5f7-162423e55902@8813.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+SUMMARY:Senate meets
+UID:072a6a64-949f-4486-97b0-aa972eacf27f@072a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Last day for withdrawing from first term courses without penalty of failure
+UID:9f6a2c60-6e01-4cdd-a7a2-f025ad7727a1@9f6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+SUMMARY:May-August (Term 1) courses begin for all faculties
+UID:2d68d579-91ac-4d60-9644-1eb0539e8054@2d68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+SUMMARY:Last day for graduate students to register in a personal leave in summer
+UID:f67b6adb-9b97-4759-84c4-9a65e4dad0c8@f67b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+SUMMARY:August (Term 7) courses begin
+UID:02bbbafa-8701-4643-a9b1-d96fa06d77a2@02bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Senate meets
+UID:f35371e4-2dbf-4e7e-b9b7-0f075a59cacd@f353.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+SUMMARY:First term classes begin for all faculties
+UID:0043de39-1c40-416c-a7f1-546f50716cfc@0043.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Faculty of Graduate Studies deadline to apply to graduate for Spring Convocation
+UID:0ca7cd4a-bd96-49bb-9f81-7cd3e89e66e1@0ca7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250519
+SUMMARY:University Closed (Victoria Day)
+UID:72e46a34-6e20-4686-bde3-6a9f37e4fc8f@72e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+SUMMARY:First year registration and opening assembly for Faculty of Law
+UID:cb302e06-53ea-4df5-90d7-fff1cb8485aa@cb30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+SUMMARY:Senate meets
+UID:ded019a4-f707-4438-8a47-1f0b8d7cacfc@ded0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+SUMMARY:May-August (Term 1) examinations end for all faculties
+UID:3ec391d8-4443-45c8-a954-24948e176b0f@3ec3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+SUMMARY:University Closed (Good Friday)
+UID:135bf6d2-2047-4796-b20c-94f0746bbfae@135b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+SUMMARY:July (Term 6) courses end
+UID:4ac0646d-9ee0-443b-9dae-9f0ae27a4eb2@4ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261223
+SUMMARY:First term examinations end for all faculties
+UID:e79f52e8-a3ad-49c1-a5ea-dbd9a4d50234@e79f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250522
+SUMMARY:Senate Committee on Academic Standards meets to approve Convocation lists
+UID:45589af1-ef89-4f9c-a2a7-0b50973c1da0@4558.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+SUMMARY:First term examinations begin for all faculties
+UID:c1bc6f90-821b-4cf5-9259-20437c97ca09@c1bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+SUMMARY:Senate meets
+UID:2b1ded72-4b73-458c-87c1-df31d6fc5629@2b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250627
+SUMMARY:May-June (Term 2) and June (Term 5) Courses End
+UID:c2836c35-6262-48d2-9ffa-75b4881e9e02@c283.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250507
+SUMMARY:May-August (Term 1) courses begin for all faculties
+UID:f9a45ab7-69e9-4488-9764-89a5e1f7d471@f9a4.org
+END:VEVENT
+END:VCALENDAR
