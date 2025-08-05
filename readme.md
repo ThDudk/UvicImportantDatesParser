@@ -12,7 +12,7 @@ To generate the ics file, you can either use the existing snapshot.html (which i
 
 To grab the current site information, go to https://www.uvic.ca/calendar/dates/, right click then click `Save Page As`. Rename the file to exactly `snapshot.html` then replace the existing file in the repository.
 
-Finally, run main.py to generate the ics. This will replace the existing uvic_events.ics in the repo
+Finally, run main.py to generate the ics. This will replace the existing `uvic_events.ics` in the repo
 
 ## Requirements
 
