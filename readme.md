@@ -1,10 +1,6 @@
 # Uvic Important Academic Dates Parser
 
-This is a hyper-specific program that parses all the dates from https://www.uvic.ca/calendar/dates/ (website snapshot required) into an ics file that can be imported into any calendar application. 
-
-## Project Status
-
-I only intend to use this project rarely, and it works fine, so I don't intend to do any work on it unless I need to for personal use. 
+Parses all the academic important dates from https://www.uvic.ca/calendar/dates/ (website snapshot required) into an ics file that can then be imported into any calendar application. 
 
 ## Installation / Running
 
@@ -18,3 +14,7 @@ Finally, run main.py to generate the ics. This will replace the existing `uvic_e
 - [ics.py](https://icspy.readthedocs.io/en/stable/#)
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 - [dateutil](https://pypi.org/project/python-dateutil/)
+
+## Project Status
+
+I don't intend to do any more work on this project. I can't guarentee it will continue to work in the future and I won't fix any bugs or issues unless I personally intend to use the project again.  
