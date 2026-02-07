@@ -14,9 +14,7 @@ To grab the current site information, go to https://www.uvic.ca/calendar/dates/,
 
 Finally, run main.py to generate the ics. This will replace the existing `uvic_events.ics` in the repo
 
-## Requirements
-
-The project requires 3 python libraries:
+## Built With
 - [ics.py](https://icspy.readthedocs.io/en/stable/#)
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 - [dateutil](https://pypi.org/project/python-dateutil/)
