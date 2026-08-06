@@ -17,4 +17,4 @@ Finally, run main.py to generate the ics. This will replace the existing `uvic_e
 
 ## Project Status
 
-I don't intend to do any more work on this project. I can't guarentee it will continue to work in the future and I won't fix any bugs or issues unless I personally intend to use the project again.  
+I don't intend to do any more work on this project. I can't guarentee it will continue to work in the future and I won't fix any bugs or issues unless I personally intend to use the project again. That said, as far as I am aware, the project is perfectly stable.
